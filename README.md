@@ -1,2 +1,2 @@
 # 🏺;; ARTESANATO-ANTIGO.
-O repositória falará sobre Artesanato Antigo; Suas origens, evolução, artesãos, etc.
+O repositório é sobre Artesanato Antigo; suas origens, evolução, artesãos, etc.
